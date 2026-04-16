@@ -3,9 +3,13 @@
 This project provides a comprehensive performance tracking report for advertising campaigns running on Facebook and Instagram. The dashboard enables marketing teams to monitor reach, engagement, and conversion metrics, helping them optimize budget allocation and identify the most effective ad formats and platforms.
 
 **Purpose & Key Objectives**
+
 The primary goal is to evaluate the effectiveness of advertising spend through a data-driven approach.
+
 **Performance Tracking:** Measure core KPIs like CTR, Conversion Rate, and ROAS.
+
 **Audience Insights:** Analyze engagement patterns across different demographics, including age, gender, and location.
+
 **Strategic Optimization:** Identify high-performing ad types (Video, Stories, Carousel, Image) to drive better ROI.
 
 **Tech Stack**
