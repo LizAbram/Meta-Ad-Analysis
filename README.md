@@ -26,6 +26,7 @@ Dimension Tables: ads, campaigns, and users (provides metadata on targeting, bud
 **Key Insights:**
 
 **Funnel Efficiency:** While top-of-funnel engagement (CTR 11.76%) is strong, the lower-funnel Purchase Rate (0.61%) indicates a need for landing page optimization.
+
 **Format Superiority:** Video and Stories ads significantly outperform static images in both reach and conversion.
 
 <img width="849" height="486" alt="image" src="https://github.com/user-attachments/assets/5102b989-0cbc-4ca5-aa1d-3f4ce810258e" />
